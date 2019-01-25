@@ -16,6 +16,7 @@
 using namespace std;
 
 int vc,hc;//limit capacity
+int git_hub_test;
 
 class Net{
 	public:
